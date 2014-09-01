@@ -1,5 +1,7 @@
 % MAKE SURE you compile the .c files first by running mexAll.m. 
 
+% Just testing git
+
 % load mean20130303_H92_009.mat
 % load Jen_data_5X_contrast
 load Jen_data_5X_BW
